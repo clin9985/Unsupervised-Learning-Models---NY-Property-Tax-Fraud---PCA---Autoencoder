@@ -1,4 +1,4 @@
-# Unsupervised-Learning-Models---NY-Property-Tax-Fraud---PCA---Autoencoder
+# Unsupervised-Learning-Models---Property-Tax-Fraud---PCA---Autoencoder
 NY property tax fraud project description:
 The dataset contains 1 million record, and 32 variables like lot, market values, tax classes. I used unsupervised anomaly detection because the fraud is unusual which makes it a good case for unsupervised learning. The most important part is to build the right space, where outlier is meaningful to the problem.
 
